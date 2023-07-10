@@ -1,0 +1,8 @@
+-git clone <link> .......لنسخ الريبو علي اللكوكال 
+-git add . 
+-git status 
+-git commit -m "messege"
+-git push -u origin master 
+-none...لو انت عملت ملف وعملتله كوميت  وعاوز ترجعه من الكوميت تاني   عشان هتمسحه او لاي سبب تاني 
+git reset head file 
+
