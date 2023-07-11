@@ -5,4 +5,7 @@
 -git push -u origin master 
 -none...لو انت عملت ملف وعملتله كوميت  وعاوز ترجعه من الكوميت تاني   عشان هتمسحه او لاي سبب تاني 
 git reset head file 
+-gi branch بيعرفك ايه البرانشس اللي موجوده ف الريبو 
+-git push -u origin master
+
 
