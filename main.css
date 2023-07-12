@@ -1,6 +1,7 @@
 body {
-  background: red;
   background: #fff;
+  background-color: red;
+  font-size: 5px;
 }
 h1 {
   color: #fff;
